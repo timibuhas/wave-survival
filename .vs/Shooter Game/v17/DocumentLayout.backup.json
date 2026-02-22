@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adonis\\Shooter Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|c:\\users\\adonis\\shooter game\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|c:\\users\\adonis\\shooter game\\assets\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|c:\\users\\adonis\\shooter game\\assets\\scripts\\globalreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\zombiespawncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\zombiespawncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\zombiepatrolingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\zombiepatrolingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\zombiechasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\zombiechasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\zombieattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\zombieattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\zombieidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\zombieidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\zombiehand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\zombiehand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\screenfader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenfader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\throwable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\throwable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\ammobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\ammobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\clicktomove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clicktomove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|C:\\Users\\Adonis\\Shooter Game\\assets\\scripts\\beerbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E0EBC1-6100-BB8F-43B8-A378E64B9F4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beerbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalReferences.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\GlobalReferences.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalReferences.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\GlobalReferences.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalReferences.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:55:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SaveLoadManager.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\SaveLoadManager.cs",
+              "RelativeToolTip": "Assets\\SaveLoadManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:30:44.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:40:29.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponManager.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\WeaponManager.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAiwB0BAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:21:48.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZombieSpawnController.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieSpawnController.cs",
+              "RelativeDocumentMoniker": "Assets\\ZombieSpawnController.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieSpawnController.cs",
+              "RelativeToolTip": "Assets\\ZombieSpawnController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:48:50.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:56:27.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Zombie.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Zombie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:59:29.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZombieChaseState.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\ZombieChaseState.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieChaseState.cs",
+              "RelativeToolTip": "Assets\\ZombieChaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:56:08.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZombiePatrolingState.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombiePatrolingState.cs",
+              "RelativeDocumentMoniker": "Assets\\ZombiePatrolingState.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombiePatrolingState.cs",
+              "RelativeToolTip": "Assets\\ZombiePatrolingState.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:55:59.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:43:07.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:38:11.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MouseMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\MouseMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseMovement.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\MouseMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:50:28.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:02:33.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ZombieAttackState.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\ZombieAttackState.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieAttackState.cs",
+              "RelativeToolTip": "Assets\\ZombieAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:56:11.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv+MAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:31:48.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HUDManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\HUDManager.cs",
+              "RelativeDocumentMoniker": "Assets\\HUDManager.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\HUDManager.cs",
+              "RelativeToolTip": "Assets\\HUDManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:32:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:45:18.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ZombieIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\ZombieIdleState.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieIdleState.cs",
+              "RelativeToolTip": "Assets\\ZombieIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:55:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InteractionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\InteractionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\InteractionManager.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\InteractionManager.cs",
+              "RelativeToolTip": "Assets\\InteractionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:36:42.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScreenFader.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\ScreenFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenFader.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\ScreenFader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenFader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:47:26.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ZombieHand.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieHand.cs",
+              "RelativeDocumentMoniker": "Assets\\ZombieHand.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\ZombieHand.cs",
+              "RelativeToolTip": "Assets\\ZombieHand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:00:09.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Throwable.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Throwable.cs",
+              "RelativeDocumentMoniker": "Assets\\Throwable.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Throwable.cs",
+              "RelativeToolTip": "Assets\\Throwable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:26:00.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AmmoBox.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\AmmoBox.cs",
+              "RelativeDocumentMoniker": "Assets\\AmmoBox.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\AmmoBox.cs",
+              "RelativeToolTip": "Assets\\AmmoBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:55:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClickToMove.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\ClickToMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickToMove.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\ClickToMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClickToMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:13:48.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BeerBottle.cs",
+              "DocumentMoniker": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\BeerBottle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeerBottle.cs",
+              "ToolTip": "C:\\Users\\Adonis\\Shooter Game\\Assets\\Scripts\\BeerBottle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeerBottle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:07:58.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
