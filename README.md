@@ -36,4 +36,4 @@ Proiectul demonstrează implementarea mecanicilor de bază ale unui joc shooter,
 ---
 
 ## Demo Video
-Poți viziona gameplay-ul aici: [YouTube Video](LINK_YOUTUBE_TAU)
+https://youtu.be/wyj6F4pZyuM
